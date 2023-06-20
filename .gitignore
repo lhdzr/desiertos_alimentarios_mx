@@ -3,3 +3,7 @@
 .RData
 .Ruserdata
 datos/raw/denue/
+datos/processed/indice/iaa_mx.dbf
+datos/processed/indice/iaa_mx.prj
+datos/processed/indice/iaa_mx.shp
+datos/processed/indice/iaa_mx.shx
